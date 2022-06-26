@@ -40,6 +40,7 @@ align-items: center;
 height:70px;
 padding: 0 36px;
 background:#090b13;
+overflow:hidden;
 `
 
 const Logo = styled.img`
